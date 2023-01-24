@@ -13,5 +13,13 @@
     "NPM",
     "Node.js",
     "Finals"
-  ]
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jayzi07/Elective-3---Finals.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jayzi07/Elective-3---Finals/issues"
+  },
+  "homepage": "https://github.com/jayzi07/Elective-3---Finals#readme"
 }
