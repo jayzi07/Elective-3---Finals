@@ -1,0 +1,17 @@
+{
+  "name": "finals",
+  "version": "1.0.0",
+  "description": "Elective 3 - Finals",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jason Solomon, Rosielyn Laron, Jasmine Fernandez, Nathalie Cruz, Mariel Baraquio",
+  "license": "ISC",
+  "keywords": [
+    "Elective3",
+    "NPM",
+    "Node.js",
+    "Finals"
+  ]
+}
